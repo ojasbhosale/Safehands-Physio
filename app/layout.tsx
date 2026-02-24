@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'SHREE Physiotherapy and Rehabilitation Clinic',
-  description: 'Expert Physiotherapy & Rehabilitation Services for All Ages | Dr Shraddha’s SHREE Physiotherapy & Rehabilitation Clinic',
+  title: 'Safehands Physio – Sports & Musculoskeletal Physiotherapy Clinic in Kothrud, Pune',
+  description: 'Safehands Physio in Kothrud, Pune offers expert sports injury rehabilitation, musculoskeletal pain management, post-surgical physiotherapy, and personalized recovery programs led by Dr. Kavita Gandhi (MPTh).',
 };
 
 export default function RootLayout({

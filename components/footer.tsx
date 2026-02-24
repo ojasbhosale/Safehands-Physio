@@ -74,7 +74,7 @@ export default function Footer() {
             >
               <Image
                 src="/logo.png"
-                alt="Shree Physiotherapy Clinic"
+                alt="Safehands Physio Logo"
                 width={160}
                 height={56}
                 className="w-fit"
